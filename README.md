@@ -4,6 +4,12 @@
 
 Scroll&Win is a decentralized prediction market platform built on blockchain technology, offering a secure and transparent solution for users to bet on the outcomes of various events. By leveraging smart contracts, Scroll&Win ensures the integrity, fairness, and efficiency of every bet placed on the platform.
 
+## Verified Contract Address and Link
+- **Scroll**: 0x96a8755E1736C172DfE28278C6522db5F2BB0A75
+              https://sepolia.scrollscan.com/address/0x96a8755e1736c172dfe28278c6522db5f2bb0a75
+- **Vanar**: 0x96a8755E1736C172DfE28278C6522db5F2BB0A75
+             https://explorer-vanguard.vanarchain.com/address/0x96a8755E1736C172DfE28278C6522db5F2BB0A75
+
 ## The Problem Scroll&Win Solves
 
 ### 1. Lack of Trust in Centralized Prediction Markets
